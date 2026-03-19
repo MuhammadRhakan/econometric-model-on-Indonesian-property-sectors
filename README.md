@@ -9,7 +9,9 @@ A unique focus of this study is the exploration of Firm Size as a moderating var
 Despite established financial theories, empirical results in the Indonesian property market remain inconsistent. This study addresses the gap by evaluating whether Firm Size acts as a catalyst or a buffer for these relationships, specifically within firms under special monitoring.
 
 ## 🛠️ Data & Methodology
-<img width="538" height="859" alt="Workflow-Pooled OLS drawio (1)" src="https://github.com/user-attachments/assets/1055f47d-5003-4744-8e86-6c243893ccf2" />
+<p align="center">
+  <img width="538" height="859" alt="Workflow-Pooled OLS drawio (1)" src="https://github.com/user-attachments/assets/1055f47d-5003-4744-8e86-6c243893ccf2" />
+</p>
 
 * **Data Source:** Financial statements of property sector firms (IDN Stock Exchange).
 * **Variables:**
