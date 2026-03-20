@@ -10,9 +10,8 @@ Despite established financial theories, empirical results in the Indonesian prop
 
 ## 🛠️ Data & Methodology
 <p align="center">
-  <img width="538" height="859" alt="Workflow-Pooled OLS drawio" src="https://github.com/user-attachments/assets/c95d4646-be60-4e8c-808e-4b4b51fe37ee" />
+  <img width="538" height="859" alt="econometrics workflow" src="https://github.com/user-attachments/assets/9c3988bd-1d5d-49c4-ae1b-61ec1abb6e04" />
 </p>
-
 
 * **Data Source:** Financial statements of property sector firms (IDN Stock Exchange).
 * **Variables:**
